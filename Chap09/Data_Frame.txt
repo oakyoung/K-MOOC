@@ -1,0 +1,8 @@
+FIELD, CASES, CIVIL	, CRIMINAL
+economics, 2435, 2142, 293
+tax, 5243, 3899, 1344
+work, 3214, 3101, 113
+social, 4112, 2019, 2093
+education, 2131, 1993, 138
+environment, 4192, 4081, 111
+
